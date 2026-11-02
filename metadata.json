@@ -1,0 +1,6 @@
+{
+  "name": "Grocery Note Taker",
+  "description": "Fast typing and voice capture for groceries, vegetables, and everyday household essentials with date-aware history and local-first privacy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
